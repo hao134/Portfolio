@@ -37,6 +37,10 @@
 記錄咖啡店資訊的網頁
 ###### python, flask, bootstrap, flask_sqlalchemy
 
+### [shihhao-blog](https://github.com/hao134/Portfolio/tree/main/shihhao-blog)
+使用python flask 製作的personal blog
+###### python, flask, bootstrap, flask_sqlalchemy
+
 ### [todolist_react](https://github.com/hao134/Portfolio/tree/main/todolist_react)
 用Reactjs 實現可以新增todolist的網頁，因為沒有連接database，重整頁面資料會消失
 ###### React
