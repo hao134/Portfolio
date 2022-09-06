@@ -1,6 +1,6 @@
 # Keeper React
 [Demo](https://hao134.github.io/keeper_react/)
-### 用 React 來製作類似於google keeper 的作品
+### 用 React 來製作類似於google keep 的作品
 ##  首頁如此
 ![](https://i.imgur.com/ZrriVuE.png)
 #### 按下中間 Take a note...會延展開
