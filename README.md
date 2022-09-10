@@ -22,7 +22,7 @@
 ###### nodes, express, mongodb
 
 ### [keeper](https://github.com/hao134/Portfolio/tree/main/keeper)
-用Reactjs 實現類似於google keeper的網頁，因為沒有連接database，重整頁面資料會消失
+用Reactjs 實現類似於google keep的網頁，因為沒有連接database，重整頁面資料會消失
 ###### React
 
 ### [newsletter_heroku](https://github.com/hao134/Portfolio/tree/main/newsletter_heroku)
