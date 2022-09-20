@@ -1,6 +1,6 @@
 # Keeper MERN
 [Demo](https://desolate-brook-92833.herokuapp.com/)
-### 用 React 來製作類似於google keep 的作品
+### 用 React 來製作類似於google keep 的作品，還有使用nodejs 和express 以及MongoDB的串接
 ##  首頁如此
 ![](https://i.imgur.com/ZrriVuE.png)
 #### 按下中間 Take a note...會延展開
